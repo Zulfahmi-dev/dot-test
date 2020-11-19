@@ -1,4 +1,4 @@
-const WilayahController = require("@wilayah/controller");
+const WilayahController = require("../controller");
 const express = require("express");
 
 const router = new express.Router();
